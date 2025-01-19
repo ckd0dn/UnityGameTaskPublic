@@ -2,6 +2,7 @@
 게임 클라이언트 개발 온보딩 과제
 간단한 2D 게임
 
+![화면 캡처 2025-01-18 215053](https://github.com/user-attachments/assets/f75077f2-ffc9-4ae3-93fb-ddf9d364ca83)
 
 # ⚙개발 환경
 * ``C#``
