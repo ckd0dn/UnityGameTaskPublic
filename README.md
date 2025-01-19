@@ -22,3 +22,8 @@
 3. Physics.Overlap을 사용하여 적을 탐지하고 공격
 4. FSM 적용
 5. ResourceManager로 프리팹을 로드 => ObjectManager로 로드된 오브젝트들 생성 및 관리 => PoolManager에서 오브젝트풀로 관리
+
+# 🎥 영상
+
+[https://youtu.be/NYPMZO4IDT0](https://youtu.be/NYPMZO4IDT0)
+
